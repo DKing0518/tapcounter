@@ -10,18 +10,18 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can see a number displayed on the screen. The number starts at 0.
-* [ ] Tap button displayed on screen to increase number by 1.
+* [x] User can see a number displayed on the screen. The number starts at 0.
+* [x] Tap button displayed on screen to increase number by 1.
 
 The following **optional** features are implemented:
 
-* [ ] User can exchange 100 taps for an upgrade where each tap will count as 2 taps.
+* [x] User can exchange 100 taps for an upgrade where each tap will count as 2 taps.
       
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/tap-counter-aCdo7N5' title='Tap Counter Walkthrough' width='' alt='Tap Counter Walkthrough' />
+<img src='https://i.imgur.com/RuwJi22.gif' title='Tap Counter Walkthrough' width='' alt='Tap Counter Walkthrough' />
 
 
 GIF created with ...  
